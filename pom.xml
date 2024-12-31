@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url><facebook-release:http://3.109.214.148:9980/mithuntechnologies/repository/facebook-releases/</url>
+	      <url>facebook-release:http://3.109.214.148:9980/mithuntechnologies/repository/facebook-releases/</url>
 	    </repository>
 	
 	    <snapshotRepository>
